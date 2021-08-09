@@ -24,7 +24,7 @@ namespace WebBrowser
                 // Above three lines can be replaced with new helper method below
                 // string responseBody = await client.GetStringAsync(uri);
 
-                Console.WriteLine(responseBody);
+                Console.WriteLine(responseBody);// i cant remove html tax because regex makes my pc crash... i will come back with a new one 
             }
             catch (HttpRequestException e)
             {

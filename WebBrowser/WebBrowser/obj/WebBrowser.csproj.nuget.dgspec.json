@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GRTV\\source\\repos\\WebBrowser\\WebBrowser\\WebBrowser.csproj": {}
+    "C:\\Users\\GRTV\\source\\repos\\test\\WebBrowser\\WebBrowser\\WebBrowser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GRTV\\source\\repos\\WebBrowser\\WebBrowser\\WebBrowser.csproj": {
+    "C:\\Users\\GRTV\\source\\repos\\test\\WebBrowser\\WebBrowser\\WebBrowser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GRTV\\source\\repos\\WebBrowser\\WebBrowser\\WebBrowser.csproj",
+        "projectUniqueName": "C:\\Users\\GRTV\\source\\repos\\test\\WebBrowser\\WebBrowser\\WebBrowser.csproj",
         "projectName": "WebBrowser",
-        "projectPath": "C:\\Users\\GRTV\\source\\repos\\WebBrowser\\WebBrowser\\WebBrowser.csproj",
+        "projectPath": "C:\\Users\\GRTV\\source\\repos\\test\\WebBrowser\\WebBrowser\\WebBrowser.csproj",
         "packagesPath": "C:\\Users\\GRTV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GRTV\\source\\repos\\WebBrowser\\WebBrowser\\obj\\",
+        "outputPath": "C:\\Users\\GRTV\\source\\repos\\test\\WebBrowser\\WebBrowser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GRTV\\AppData\\Roaming\\NuGet\\NuGet.Config",

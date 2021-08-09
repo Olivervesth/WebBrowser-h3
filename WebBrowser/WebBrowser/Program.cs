@@ -7,7 +7,7 @@ namespace WebBrowser
         static void Main(string[] args)
         {
             Searcher search = new Searcher();
-            search.customSearch();
+            search.customSearch();// call function to get the data
         }
     }
 }
