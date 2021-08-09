@@ -1,0 +1,13 @@
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\bin\Debug\netcoreapp3.1\WebBrowser.exe
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\bin\Debug\netcoreapp3.1\WebBrowser.deps.json
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\bin\Debug\netcoreapp3.1\WebBrowser.runtimeconfig.json
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\bin\Debug\netcoreapp3.1\WebBrowser.runtimeconfig.dev.json
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\bin\Debug\netcoreapp3.1\WebBrowser.dll
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\bin\Debug\netcoreapp3.1\WebBrowser.pdb
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.csproj.AssemblyReference.cache
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.AssemblyInfoInputs.cache
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.AssemblyInfo.cs
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.dll
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.pdb
+C:\Users\GRTV\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.genruntimeconfig.cache
